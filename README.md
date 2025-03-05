@@ -1,4 +1,7 @@
-# Led-control-using-Arduino
+## NAME : HARSHINI R
+## REGISTER NO : 212223220033
+
+# EXP-1 Led control using Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -58,9 +61,17 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
+[Uploading New Project [20250227, 13-16-51].pdsprj.DESKTOP-MOHHBTU.admin.workspace…]()
 
 ## PROGRAM
 
-## OUTPUT
+![WhatsApp Image 2025-03-05 at 22 39 10_ab9c0b30](https://github.com/user-attachments/assets/6017dd61-12fa-436e-8787-3c4a6c0f7610)
 
-## RESULT
+## OUTPUT
+## PUSH BUTTON ON: 
+![WhatsApp Image 2025-03-05 at 22 39 10_8f0816b0](https://github.com/user-attachments/assets/70bc231f-14f4-4995-86a2-631afa70e962) 
+## PUSH BUTTON OFF :
+![WhatsApp Image 2025-03-05 at 22 39 10_56d8ed4f](https://github.com/user-attachments/assets/23617d51-25f8-43ab-adc7-b9135a45f378)
+
+## RESULT:
+Thus designed and implemented a system for LED control using an arduino microcontroller and a push button
