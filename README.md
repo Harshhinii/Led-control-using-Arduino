@@ -61,7 +61,7 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-[Uploading New Project [20250227, 13-16-51].pdsprj.DESKTOP-MOHHBTU.admin.workspace…]()
+![exp-1](https://github.com/user-attachments/assets/28bdc236-663d-4845-ade0-cd6d61a075ef)
 
 ## PROGRAM
 
