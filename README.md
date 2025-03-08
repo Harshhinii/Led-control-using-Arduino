@@ -69,9 +69,11 @@ Weighing Machines </br>
 
 ## OUTPUT
 ## PUSH BUTTON ON: 
-![WhatsApp Image 2025-03-05 at 22 39 10_8f0816b0](https://github.com/user-attachments/assets/70bc231f-14f4-4995-86a2-631afa70e962) 
+![Screenshot 2025-03-08 114831](https://github.com/user-attachments/assets/f990e9d8-672b-440c-b90f-8d5483e7635b)
+
 ## PUSH BUTTON OFF :
-![WhatsApp Image 2025-03-05 at 22 39 10_56d8ed4f](https://github.com/user-attachments/assets/23617d51-25f8-43ab-adc7-b9135a45f378)
+![Screenshot 2025-03-08 115629](https://github.com/user-attachments/assets/ff8568f9-155f-4ba1-9458-a8b57ce9cb11)
+
 
 ## RESULT:
 Thus designed and implemented a system for LED control using an arduino microcontroller and a push button
